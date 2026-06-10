@@ -16,12 +16,11 @@ I'm passionate about programming, web development, databases, and building real-
 - 📫 Reach me at: **sudipbarman66@gmail.com**
 
 ---
-
 ## 🌐 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sudip-barman-362770306/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Sudip%20Barman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 </p>
 
