@@ -21,11 +21,11 @@ I'm passionate about programming, web development, databases, and building real-
 
 <p align="left">
   <a href="YOUR_LINKEDIN_URL" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    <img src="[https://skillicons.dev/icons?i=linkedin](https://www.linkedin.com/in/sudip-barman-362770306/?lipi=urn%3Ali%3Apage%3Ad_flagship3_job_home%3Bhjh1JJFrThO9DDaaYBZiQg%3D%3D)" alt="LinkedIn" />
   </a>
 </p>
 
-> Replace `YOUR_LINKEDIN_URL` with your actual LinkedIn profile link.
+
 
 ---
 
