@@ -20,8 +20,8 @@ I'm passionate about programming, web development, databases, and building real-
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
-    <img src="[https://skillicons.dev/icons?i=linkedin](https://www.linkedin.com/in/sudip-barman-362770306/?lipi=urn%3Ali%3Apage%3Ad_flagship3_job_home%3Bhjh1JJFrThO9DDaaYBZiQg%3D%3D)" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/sudip-barman-362770306/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sudip%20Barman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
