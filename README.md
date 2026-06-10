@@ -11,8 +11,21 @@ I'm passionate about programming, web development, databases, and building real-
 - 🌱 Currently learning **Java, Python, SQL, and Full-Stack Web Development**
 - 💡 Interested in **Software Development, AI, Databases, and Backend Engineering**
 - 🚀 Building **AuLi** (AI Learning Workspace)
-- 📚 Always exploring new technologies and improving problem-solving skills
+- 📚 Exploring new technologies and strengthening problem-solving skills every day
+- 🎯 Working toward becoming a skilled Full-Stack Developer
 - 📫 Reach me at: **sudipbarman66@gmail.com**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+</p>
+
+> Replace `YOUR_LINKEDIN_URL` with your actual LinkedIn profile link.
 
 ---
 
@@ -38,6 +51,12 @@ I'm passionate about programming, web development, databases, and building real-
 
 ---
 
+## 📈 Activity Graph
+
+[![Sudip's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sudip-Barman&theme=react-dark)](https://github.com/Sudip-Barman)
+
+---
+
 ## 🎯 Current Goals
 
 - Master Java Programming
@@ -51,16 +70,15 @@ I'm passionate about programming, web development, databases, and building real-
 ## 🌟 Featured Project
 
 ### AuLi
+
 An AI-powered learning workspace designed to help students learn smarter, stay organized, and boost productivity.
 
 ---
 
-## 📈 Activity Graph
+## 💬 Favorite Quote
 
-[![Sudip's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sudip-Barman&theme=react-dark)](https://github.com/Sudip-Barman)
+> "Every expert was once a beginner who refused to quit."
 
 ---
 
-### 💬 Quote
-
-> "Every expert was once a beginner who refused to quit."
+⭐ Thanks for visiting my profile!
